@@ -12,6 +12,10 @@
 Atualmente, estudo **HTML, CSS , JavaScript, Node.js, React, Github** no **DevClub** e estou focada em aprimorar minhas habilidades como desenvolvedora.
 
 
+
+
+
+
 🚀 **Vamos construir algo incrível juntos?**<br>
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html">
@@ -26,8 +30,7 @@ Atualmente, estudo **HTML, CSS , JavaScript, Node.js, React, Github** no **DevCl
 
 
 
-![katiasilva stats](https://github-readme-stats.vercel.app/api?username=katiadasilva&theme=dark&show_icons=true)
-![katiasilva stats](https://github-readme-stats.vercel.app/api?username=katiadasilva&show_icons=true&bg_color=00000000)
+
 
 
 
