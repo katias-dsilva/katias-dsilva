@@ -26,8 +26,8 @@ Atualmente, estudo **HTML, CSS , JavaScript, Node.js, React, Github** no **DevCl
 
 
 
-![katiasilva stats](https://github-readme-stats.vercel.app/api?username=katiasilva&theme=dark&show_icons=true)
-![katiasilva stats](https://github-readme-stats.vercel.app/api?username=katiasilva&show_icons=true&bg_color=00000000)
+![katiasilva stats](https://github-readme-stats.vercel.app/api?username=katiadasilva&theme=dark&show_icons=true)
+![katiasilva stats](https://github-readme-stats.vercel.app/api?username=katiadasilva&show_icons=true&bg_color=00000000)
 
 
 
